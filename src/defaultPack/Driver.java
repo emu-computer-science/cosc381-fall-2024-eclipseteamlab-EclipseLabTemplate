@@ -10,7 +10,7 @@ public class Driver {
 		Glad g = new Glad();
 		g.glad();
 		Sad s = new Sad();
-		s.sad();
+		s.sadSecond();
 
 	}
 
