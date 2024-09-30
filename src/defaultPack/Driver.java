@@ -7,6 +7,10 @@ public class Driver {
 		System.out.println("Our team is getting started");
 		Hungry h = new Hungry();
 		h.hungry();
+		Glad g = new Glad();
+		g.glad();
+		Sad s = new Sad();
+		s.sad();
 
 	}
 
