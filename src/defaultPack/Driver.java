@@ -11,7 +11,7 @@ public class Driver {
 		g.glad();
 		Sad s = new Sad();
 		s.sad();
-
+		g.stillGlad();
 	}
 
 }
